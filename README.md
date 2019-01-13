@@ -1,7 +1,8 @@
 # rclone-backup
 
 ## About
-Just my [rclone](https://rclone.org/) Windows batch scripts to backup / sync the second hard drive of my computer to [pCloud](https://www.pcloud.com/) (encrypted).
+Just a fork of the [rclone](https://rclone.org/) Windows batch scripts to backup / sync some parts of my QNAP NAS (Linux) to [pCloud](https://www.pcloud.com/) (**NOT** encrypted).
+
 
 ![](.github/rclone-backup.png)
 
